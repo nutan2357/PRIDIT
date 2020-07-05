@@ -29,5 +29,5 @@ A point to note though while interpreting the results is -- In PRIDIT PCA is app
 
 
 
-Credit to Brock for coming up with RIDIT in 1958 https://www.jstor.org/stable/2527727
+Credit to Brock for coming up with RIDIT in 1958 https://www.jstor.org/stable/2527727  
 and for the hospital implementation here https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2442235/
