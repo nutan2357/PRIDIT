@@ -26,3 +26,8 @@ PRIDIT has two parts
 Making the technique's name P(ca) + RIDIT.
 
 A point to note though while interpreting the results is -- In PRIDIT PCA is applied and the first Principle component is picked. The first principle component captures the most variance & usually will be representative of the kind of variables used, if most of the variables used are risk related then the PRIDIT score could be called a risk indicator. If most of the variables are Quality related then the PRIDIT score can be a proxy /composite quality indicator
+
+
+
+Credit to Brock for coming up with RIDIT in 1958 https://www.jstor.org/stable/2527727
+and for the hospital implementation here https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2442235/
