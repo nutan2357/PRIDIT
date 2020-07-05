@@ -1,7 +1,7 @@
 # PRIDIT
-PRIDIT is an unsupervised, nonparametric aggregation technique
-
 *PRIDIT* is an unsupervised, nonparametric aggregation technique.
+
+This is a python implementation of the PRIDIT algorithm 
 
 It is an alternative to weighted averages or composite scores and other aggregation techniques and is more accurate in a broader set of cases
 
